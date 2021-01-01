@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608667107 source:d:\collage\terms1\ds\ds_projects\circularlinkedqueue\linkedqueue.c
+	"linkedQueue.h"
+	<stddef.h>
+
+1608662091 d:\collage\terms1\ds\ds_projects\circularlinkedqueue\linkedqueue.h
+
+1608667003 source:d:\collage\terms1\ds\ds_projects\circularlinkedqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+
